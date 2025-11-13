@@ -1,34 +1,39 @@
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+Primeiros passos com o Create React App
+Este projeto foi inicializado com o Create React App.
 
-Available Scripts
-In the project directory, you can run:
+Scripts disponíveis
+No diretório do projeto, você pode executar:
 
 npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+Executa o aplicativo no modo de desenvolvimento.
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+Abra http://localhost:3000 para visualizá-lo no seu navegador.
+
+A página será recarregada quando você fizer alterações.
+
+Você também poderá ver erros de lint no console.
 
 npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+Inicia o executor de testes no modo de observação interativo.
+
+Consulte a seção sobre execução de testes para obter mais informações.
 
 npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila o aplicativo para produção na pasta build.
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
 
-See the section about deployment for more information.
+A compilação é minificada e os nomes dos arquivos incluem os hashes.
+
+Seu aplicativo está pronto para ser implantado!
+
+Consulte a seção sobre implantação para obter mais informações.
 
 npm run eject
-Note: this is a one-way operation. Once you eject, you can't go back!
+Observação: esta é uma operação irreversível. Depois de executar o comando eject, você não poderá voltar atrás!
 
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+Se você não estiver satisfeito com a ferramenta de build e as opções de configuração, pode usar o comando `eject` a qualquer momento. Este comando removerá a única dependência de build do seu projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc.) diretamente para o seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto o `eject`, continuarão funcionando, mas apontarão para os scripts copiados, permitindo que você os ajuste. A partir deste ponto, você estará por sua conta e risco.
 
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Você não precisa usar o `eject`. O conjunto de recursos selecionados é adequado para implantações de pequeno e médio porte, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estivesse pronto.
